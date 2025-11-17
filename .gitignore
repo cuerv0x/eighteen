@@ -1,0 +1,4 @@
+/target
+
+# Data directory (wordlists, etc.)
+/data
